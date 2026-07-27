@@ -32,7 +32,7 @@ Think of it as a YC office hours session that starts immediately.
 ```
 
 Or naturally in conversation:
-> "怎么变现" · "找商业模式" · "第一个付费用户" · "收入上不去" · "怎么找客户" · "没有收入"
+> "how do I monetize this" · "find a business model" · "get my first paying customer" · "revenue is stuck" · "how do I find customers" · "no revenue yet"
 
 ### Usage
 
@@ -44,38 +44,40 @@ Or naturally in conversation:
 ### Example output
 
 ```
-## 诊断结论
+## Diagnosis
 
-**业务类型：** saas · **阶段：** zero-to-one
-
----
-
-### 核心卡点
-
-> B5 产品找问题 — 产品已有用户但无人付费，原因是从未明确定义"谁的预算批这笔钱"。
+**Vertical:** saas · **Stage:** zero-to-one
 
 ---
 
-### 推荐收入模式
+### Primary blocker
 
-**Done-For-You / 固定价服务包**
-
-| 维度 | 说明 |
-|------|------|
-| 适合你的原因 | 你有技术但没有销售渠道。服务包让你先收钱、后产品化，同时积累真实客户案例。 |
-| 参考公司 | Design Joy — $4,995/mo 无限设计请求，Ryan 独立运营。先做服务，再卖工具。 |
-| 反面警示 | 如果你不愿意做手动交付的脏活，这个模式会失败。 |
+> B5 Solution-First — You have users but zero paying customers because you never defined
+> who holds the budget. Nobody has been asked to pay.
 
 ---
 
-### 本周行动计划
+### Recommended revenue model
+
+**Done-For-You / Fixed-Price Service Package**
+
+| Dimension | Detail |
+|-----------|--------|
+| Why it fits | You have the technical skill but no sales channel. A service package lets you collect money first and productize later, while building real case studies. |
+| Reference | Design Joy — $4,995/mo unlimited design requests, solo-operated. Service first, then tool. |
+| Warning | If you're not willing to do manual delivery work, this model will fail. |
+
+---
+
+### Action plan this week
 
 **Day 1**
-→ 写一条 LinkedIn 帖子：「我帮 [目标行业] 公司做 [具体交付物]，固定价 ¥X，7 天交付。
-  前 3 名客户半价。私信我。」
+→ Post on LinkedIn: "I help [target industry] companies build [specific deliverable],
+  fixed price $X, delivered in 7 days. First 3 clients at half price. DM me."
 
 **Day 2–5**
-→ 直接 DM 20 个 Title 含 "Operations" 或 "Growth" 的目标公司联系人，发同一句话。
+→ DM 20 people with "Operations" or "Growth" in their title at target companies.
+  Same message. No pitch deck, no discovery call — just the offer.
 ```
 
 ### Reference libraries
